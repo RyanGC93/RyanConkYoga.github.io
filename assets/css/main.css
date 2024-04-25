@@ -3774,6 +3774,7 @@ sup {
 	height: 100vh !important;
 }
 .header {
+	border-radius: 10px;
 	background-color: #1a222cd1;
 	z-index: 1;
 	text-align: center;
