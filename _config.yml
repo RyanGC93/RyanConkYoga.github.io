@@ -1,14 +1,41 @@
 # Site settings
 title: Ryan Conk's Portfolio
-description: Ryan Conk's Full Stack Portfolio
+description: Ryan Conk's Yoga Teacher Portfolio
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Ryan Conk
-user_description: I'm a passionate software engineer who is motivated by continually growing my knowledge set. I have been interested in technology ever since I was 8 when I received my first PC Builder magazine and have been immersed ever since. In particular Im fascinated in technology role in solving problems. In my free time I enjoy challenging myself by creating innovative solutions to everyday problems.
-certificate: Certified SAFe 5 practitioner - Scaled Agile.
-user_title: Full Stack Software Developer
+user_description: Passionate and committed yoga enthusiast with a
+profound journey of personal transformation rooted in my
+practice. My exploration into yoga began as a means of
+healing and self-discovery following a very challenging
+time in my life. Initially I struggled to cope with the
+challenges from life's challenges in a healthy way until I
+took advice from an online forum to try yoga. From the
+moment I stepped onto the mat, I was captivated by the
+practice for its potential for growth and healing
+properties.
+
+During my journey I found an amazing community that
+not only held space for my growth, but was also invested
+in my well being. My aim is to honor those who have
+profoundly influenced my journey by creating a nurturing
+and inclusive space for others to explore their physical,
+mental, and spiritual well-being. I am deeply committed to
+promoting mental health awareness and advocating for
+the transformative benefits of yoga as a healthy coping
+mechanism for life's challenges. I also aim to use my
+personal experiences to promote and normalize men's
+mental health awareness and practices by promoting
+yoga, movement and self care as a part of a mental
+health regimine. As a yoga teacher, I aspire to guide
+individuals towards inner harmony and holistic wellness,
+fostering a journey of self-discovery and empowerment
+on and off the mat.
+
+certificate: 200 Hr Yoga Alliance Certified Teacher
+user_title: 200 Hr Certified Yoga Teacher
 email: ryangconk@gmail.com
 twitter_username:
 github_username: RyanGC93
