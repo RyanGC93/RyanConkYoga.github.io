@@ -4025,4 +4025,5 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     opacity: 0.8; 
+	width: 100vw;
 }
