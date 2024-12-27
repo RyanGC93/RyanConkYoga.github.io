@@ -3891,7 +3891,7 @@ sup {
 	max-width: 960px;
 }
 @media only screen and (min-width: 550px) {
-	#about {
+	#about , #myyogastyle, #Accomplishments, #certificate {
 		width: 80%;
 	}
 }
